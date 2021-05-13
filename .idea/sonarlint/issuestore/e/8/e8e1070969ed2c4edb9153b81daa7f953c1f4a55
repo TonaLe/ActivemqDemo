@@ -1,0 +1,14 @@
+
+U
+java:S1144	"9Remove this unused private "getConnectionFactory" method.(…™M8™š±Ë•/
+Å
+java:S5301
+"®Secure this "ActiveMQConnectionFactory" by whitelisting the trusted packages using the "setTrustedPackages" method and make sure the "setTrustAllPackages" is not set to true.(°Ãáé
+Å
+java:S5301"®Secure this "ActiveMQConnectionFactory" by whitelisting the trusted packages using the "setTrustedPackages" method and make sure the "setTrustAllPackages" is not set to true.(°Ãáé
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òôØÍ
+Å
+java:S5301"®Secure this "ActiveMQConnectionFactory" by whitelisting the trusted packages using the "setTrustedPackages" method and make sure the "setTrustAllPackages" is not set to true.(°Ãáé
+l
+java:S1192
+"VDefine a constant instead of duplicating this literal "tcp://localhost:61616" 3 times.(°Ãáé
